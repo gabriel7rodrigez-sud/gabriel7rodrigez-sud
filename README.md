@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+Cosas por hacer:
+Bañarme
+
 <!--
 **gabriel7rodrigez-sud/gabriel7rodrigez-sud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
